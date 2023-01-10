@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Single" verbose="1" parallel="tests" thread-count="1">
+	<test name="stage-env" preserve-order="true">
+		<!-- <parameter name="baseURI" value="https://api-stage.prudential.com" />
+		<parameter name="build" value="Sprint1" />
+		<parameter name="emailReport" value="false" />
+		<parameter name="environment" value="uat" />
+		<parameter name="Content-Type" value="application/json" />
+		<parameter name="pruTargetPipeline" value="stage1" />
+		<parameter name="paymentTargetPipeline" value="uat" /> -->
+		<classes>
+			<class name="com.test.springbdd.support.runners.CucumberTest_Testng"></class>
+		</classes>
+		
+	</test>
+</suite>
+

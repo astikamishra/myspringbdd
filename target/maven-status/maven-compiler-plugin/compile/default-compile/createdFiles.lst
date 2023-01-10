@@ -1,0 +1,6 @@
+com\test\springbdd\TestConfiguration.class
+com\test\springbdd\support\runners\CucumberTest_Junit.class
+com\test\springbdd\support\runners\CucumberTest_Testng.class
+com\test\springbdd\JenkinsRunner.class
+com\test\springbdd\stepDefinition\LoginPageDefinition.class
+com\test\springbdd\stepDefinition\structured_settlement_e2e.class

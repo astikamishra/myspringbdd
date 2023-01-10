@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: 000U2M744
+Build-Jdk: 17.0.3
+Implementation-Title: myspringbdd
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example.astik
+Implementation-URL: https://spring.io/projects/spring-boot/myspringbdd
+Created-By: Maven Integration for Eclipse
+
